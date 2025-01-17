@@ -1,1 +1,2 @@
-# Resolu-es_Target
+# Resoluções_Target
+-Felipe Oliveira Nogueira
